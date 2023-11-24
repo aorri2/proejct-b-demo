@@ -1,0 +1,1 @@
+export const GOOGLE_HREF = 'https://accounts.google.com/o/oauth2/v2/auth?client_id'
